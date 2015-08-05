@@ -46,7 +46,7 @@ install:
 
   # Install the build and runtime dependencies of the project.
   # - "%CMD_IN_ENV% pip install --timeout=60 -r requirements.txt"
-  - "pip install ."
+  - "pip install networkx"
 
   - "pip install nose"
 
