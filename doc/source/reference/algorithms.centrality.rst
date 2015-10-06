@@ -8,9 +8,11 @@ Degree
 .. autosummary::
    :toctree: generated/
 
-   degree_centrality
-   in_degree_centrality
-   out_degree_centrality
+   ======================== ============================================
+   degree_centrality(G)     Compute the degree centrality for nodes.
+   in_degree_centrality(G)  Compute the in-degree centrality for nodes.
+   out_degree_centrality(G) Compute the out-degree centrality for nodes.
+   ======================== ============================================
 
 Closeness
 ---------
